@@ -6,6 +6,6 @@
 		"start": "node prepare.js"
 	},
 	"dependencies": {
-		"pocketbase": "^0.21.2"
+		"pocketbase": "^0.21.3"
 	}
 }
